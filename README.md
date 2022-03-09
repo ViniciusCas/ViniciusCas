@@ -1,18 +1,16 @@
-<EN >
 
-- 👋 Hi, I’m @ViniciusCas
-- 👀 I’m interested in programming, listen to music and some gaming stuff.
-- 🌱 I’m currently learning python, introdutcion to Data Science and computer vision.
-<!--- - 💞️ I’m looking to collaborate on --->
-- 📫 How to reach me using e-mail: viniccasi@gmail.com
+<h2>👋 Hi, I’m Vinicius Casimiro</h3>
 
- </EN>
+<pre>
+🌎 Born in Sousa, Brasil, but living in Barbalha, Brasil
+👀 I’m interested in programming, listen to music and some gaming stuff.
+🌱 I’m currently learning python, introdutcion to Data Science and computer vision.
+</pre>
+	
+<h3>📫 How to reach me:</h2>
 
-<PT-BR>
-  
-- 👋 Olá, me chamo @ViniciusCas
-- 👀 Estou interessado em programação, ouvir música e algumas coisas de jogos.
-- 🌱 Atualmente estou aprendendo python, introdução a Data Science e visão computacional.
-<!--- - 💞️ Procuro colaborar em  --->
-- 📫 Como entrar em contato comigo por e-mail: viniccasi@gmail.com
-</PT-BR>
+<pre>
+<a href=viniccasi@gmail.com >Email</a>
+<a href=https://www.linkedin.com/in/vinicius-casimiro-852617219>LinkedIn</a>
+</pre>
+
